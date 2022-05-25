@@ -1,0 +1,3 @@
+- 👋 Hey! Eu sou @vaalter.
+- 👀 Buscando meu "lugar ao sol" na programação.
+- 🌱 Disposto a aprender, começando com o JavaScript!
