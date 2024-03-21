@@ -1,3 +1,3 @@
 - 👋 Hey! Eu sou @vaalter.
 - 👀 Buscando meu "lugar ao sol" na programação.
-- 🌱 Disposto a aprender, começando com o JavaScript!
+- 🌱 Aluno de gradução do curso de Análise e Desenvolvimento de Sistemas da FATEC.
